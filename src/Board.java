@@ -1,3 +1,5 @@
+
+//Board class
 public class Board {
 
     // initialize vars
@@ -25,21 +27,4 @@ public class Board {
         return board[x][y];
 
     }
-
-   /* public void display(){
-        //algorithm for printing out chess board
-        for(int i = 0; i < width; i++){
-            System.out.println(" ");
-            System.out.println("---------------------------------");
-
-            for(int j = 0; j < height; j++){
-                System.out.print("| " + " " + " ");
-            }
-            System.out.print("|");
-        }
-
-        System.out.println(" ");
-        System.out.println("---------------------------------");
-    }*/
-
 }

@@ -1,3 +1,5 @@
+
+//KnightMoves class/main class
 import java.util.Scanner;
 
 public class KnightMoves {

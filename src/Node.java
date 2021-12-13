@@ -1,3 +1,5 @@
+
+//Node class
 public class Node {
 
     //var declarations
@@ -10,12 +12,6 @@ public class Node {
         child = discovered;
         parent = last;
     }
-
-//    public void setNode(Square child, Square parent){
-//        //initialize child, parent nodes
-//        this.child = child;
-//        this.parent = parent;
-//    }
 
     public Square getChild(){
         // retrieve child node

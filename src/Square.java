@@ -1,3 +1,5 @@
+
+// Square class
 public class Square {
     // set x and y coordinate variables
     private int x;
